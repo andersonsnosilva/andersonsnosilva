@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @andersonsnosilva
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 📫 My email is: andersonsnosilva@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I love tabletop games.
